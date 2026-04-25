@@ -1,3 +1,6 @@
+> [!WARNING]
+> This fork was made after the original [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) repository was archived. All changes here are vibecoded and this just serves to hold me over until some better solution arises.
+
 <h1 align="center">
   <img src="https://github.com/nvim-treesitter/nvim-treesitter/assets/2361214/0513b223-c902-4f12-92ee-8ac4d8d6f41f" alt="nvim-treesitter">
 </h1>
